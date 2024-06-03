@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PickaxePickup : MonoBehaviour
 {
+    public static bool pickaxeHeld;
     [SerializeField] private Transform hand;
     private Rigidbody rb;
 
@@ -18,5 +19,6 @@ public class PickaxePickup : MonoBehaviour
         transform.position = hand.transform.position;
         transform.SetParent(hand);
         rb.isKinematic = true;
+        pickaxeHeld = true;
     }
 }
