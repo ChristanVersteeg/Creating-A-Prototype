@@ -355,8 +355,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<color=grey><i>day/month/year</i></color=gray>
-
 
     Name'
   m_isRightToLeft: 0
@@ -2233,6 +2231,7 @@ MonoBehaviour:
 
 
 '
+    score  . You will be able to get new characters and a story mode.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2335,7 +2334,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 500.6, y: -5.7}
+  m_AnchoredPosition: {x: 500.6, y: -230}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6352845265305727859
@@ -3227,13 +3226,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'It briefly provides information about the environment in the video game,
-    in particular the time and place of the action.
-
-
-
-    <color=grey>For example,
-    the action takes place in the Middle Ages in a fantasy world.
+  m_text: 'This takes place during world war 2 and you are a commie reliving his
+    nightmares
 
 '
   m_isRightToLeft: 0
@@ -3429,9 +3423,57 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3580116177383735642, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 423
+      objectReference: {fileID: 0}
+    - target: {fileID: 3580116177383735642, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -178.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759718442365149578, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 924
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759718442365149578, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -306
+      objectReference: {fileID: 0}
+    - target: {fileID: 5784992976341910469, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 819
+      objectReference: {fileID: 0}
+    - target: {fileID: 5784992976341910469, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -299
+      objectReference: {fileID: 0}
+    - target: {fileID: 6612454775090152641, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 866
+      objectReference: {fileID: 0}
+    - target: {fileID: 6612454775090152641, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -297
+      objectReference: {fileID: 0}
+    - target: {fileID: 8221992708995359418, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 711
+      objectReference: {fileID: 0}
+    - target: {fileID: 8221992708995359418, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -156
+      objectReference: {fileID: 0}
     - target: {fileID: 8809473836605647294, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
       propertyPath: m_Name
       value: Symbols
+      objectReference: {fileID: 0}
+    - target: {fileID: 8856535690515759232, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8856535690515759232, guid: b057dd6eabd4fb8448df9312c7c890fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -209
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
