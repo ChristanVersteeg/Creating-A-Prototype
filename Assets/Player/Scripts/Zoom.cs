@@ -4,7 +4,7 @@
 public class Zoom : MonoBehaviour
 {
     private Camera cam;
-    public float defaultFOV = 60;
+    public float defaultFOV = 90;
     public float maxZoomFOV = 15;
     [Range(0, 1)]
     public float currentZoom;
