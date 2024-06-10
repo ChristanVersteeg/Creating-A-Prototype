@@ -355,8 +355,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-
-    Name'
+  m_text: Achtung Panzer!!!!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -491,13 +490,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Information about the selected type of game level is briefly given here.
-
-
-
-    <color=grey>For
-    example, the level type is linear with two secret places and a hub to restore
-    the player''s strength before the final battle.
+  m_text: 'You will get the canhce to pause the game but you only have one life ,
+    so if you get runover/shot by the tank you lose . eventually you will be getting
+    to the final boss which is king tiger you will have to destroy it using tanks
+    you find on the way you run.
 
 '
   m_isRightToLeft: 0
@@ -678,7 +674,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 657.6, y: -5.7}
+  m_AnchoredPosition: {x: 371.1, y: -215.3}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1836749284607751937
@@ -784,8 +780,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Here you need to list which 3D objects are needed for the selected game
-    level. \r\n\r\n<color=grey>For example, a room, a sword, etc.\r\n"
+  m_text: 'a tank , a wooden box , a commie , and road
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1932,9 +1929,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Here you need to list what <u>materials</u> you will need to create for
-    the selected game level. \r\n\r\n<color=grey>For example, red material and green
-    material for highlighting open and closed locations at the game level.\r\n"
+  m_text: wood , iron, clothing, and concrete
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2090,7 +2085,7 @@ GameObject:
   - component: {fileID: 7463559273286653111}
   - component: {fileID: 5220931934700552200}
   m_Layer: 5
-  m_Name: Border
+  m_Name: hrllo\
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2219,18 +2214,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Here you provide a description of the key idea of the video game. Try
-    to formulate it in <u>one</u> sentence.
+  m_text: '
 
 
-
-    <color=grey>For example, this
-    is a video game about a hero exploring mysterious and dangerous caves in search
-    of a sword that will help defeat the evil lurking in the tower.
-
-
-
-'
+    The game will be a chasing type  game where you can obtain a higschore
+    by running from tanks that get harder whenever you finish a mandatory score ,
+    they will be shooting bullets and you will need to destroy them before the required
     score  . You will be able to get new characters and a story mode.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
