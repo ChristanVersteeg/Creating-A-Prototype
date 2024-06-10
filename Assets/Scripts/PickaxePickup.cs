@@ -1,3 +1,4 @@
+using Tags;
 using UnityEngine;
 
 public class PickaxePickup : MonoBehaviour
@@ -13,12 +14,13 @@ public class PickaxePickup : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (!collision.gameObject.CompareTag("Player")) return;
+        if (!collision.gameObject.CompareTag(Tag.Player)) return;
 
         transform.Rotate(new Vector3(90 / 2, 0, 0));
         transform.position = hand.transform.position;
         transform.SetParent(hand);
         rb.isKinematic = true;
         pickaxeHeld = true;
+
     }
 }
