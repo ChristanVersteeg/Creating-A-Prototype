@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: c7b2d7f4487ce764685b74ac15a605c5
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -8643362626442215653
+    second: Nest_10_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -8069720871225215658
+    second: Nest_10_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 7031154119313636637
+    second: Nest_10_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 6832034919137237615
+    second: Nest_10_LOD0|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 112023315475993122
+    second: Nest_10_LOD0|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -6911614094737477149
+    second: Nest_10_LOD0|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 2199250060563318284
+    second: Nest_10_LOD0|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 5735886615895996410
+    second: Nest_10_LOD0|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -6479472140467388854
+    second: Nest_10_LOD0|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 2759726214183215040
+    second: Nest_10_LOD0|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -7006069173556455898
+    second: Nest_10_LOD0|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 8639387789401357037
+    second: Nest_10_LOD0|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 4713484493408487322
+    second: Nest_10_LOD0|Nest_10_LOD0|Nest_10_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 7772652543105892403
+    second: Nest_10_LOD0|Nest_10_LOD1|Nest_10_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -4073096788224588624
+    second: Nest_10_LOD0|Nest_10_LOD2|Nest_10_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 958770439142580805
+    second: Nest_10_LOD1|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 3855886368994441115
+    second: Nest_10_LOD1|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 627061917003115428
+    second: Nest_10_LOD1|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -4998895408449554409
+    second: Nest_10_LOD1|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -8064217412447839901
+    second: Nest_10_LOD1|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 98761130023156514
+    second: Nest_10_LOD1|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 866987774366905472
+    second: Nest_10_LOD1|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 5891472523032053150
+    second: Nest_10_LOD1|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -2081977996975196116
+    second: Nest_10_LOD1|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -408129122930373141
+    second: Nest_10_LOD1|Nest_10_LOD0|Nest_10_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 5954467392263394670
+    second: Nest_10_LOD1|Nest_10_LOD1|Nest_10_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -7063475011668468831
+    second: Nest_10_LOD1|Nest_10_LOD2|Nest_10_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -8388307244301039905
+    second: Nest_10_LOD2|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 7174352670805702533
+    second: Nest_10_LOD2|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -1784379536921889976
+    second: Nest_10_LOD2|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 2862863146147894346
+    second: Nest_10_LOD2|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -730018319111388909
+    second: Nest_10_LOD2|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -8819375308812587148
+    second: Nest_10_LOD2|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -2859835584636759310
+    second: Nest_10_LOD2|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -5198110418947798933
+    second: Nest_10_LOD2|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 5989732908701617398
+    second: Nest_10_LOD2|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 6372702891124385415
+    second: Nest_10_LOD2|Nest_10_LOD0|Nest_10_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -5969914670525234466
+    second: Nest_10_LOD2|Nest_10_LOD1|Nest_10_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -1987421454584224273
+    second: Nest_10_LOD2|Nest_10_LOD2|Nest_10_LOD2|Nest_07_LOD0Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

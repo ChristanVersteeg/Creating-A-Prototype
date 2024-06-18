@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 1d1e1b256a422a34e8998592dd508313
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 4070300142076005782
+    second: Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 3383576317825387478
+    second: Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -6944218259491141476
+    second: Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 9143062398719699513
+    second: Nest_09_LOD0|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 8761933174566792466
+    second: Nest_09_LOD0|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 4766847193124651570
+    second: Nest_09_LOD0|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -4977773353342953222
+    second: Nest_09_LOD0|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -7819880130027608693
+    second: Nest_09_LOD0|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -8013040655878638570
+    second: Nest_09_LOD0|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 2075148464466832146
+    second: Nest_09_LOD0|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 6326479600299891342
+    second: Nest_09_LOD0|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 8128912326262046725
+    second: Nest_09_LOD0|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -6176310680404750573
+    second: Nest_09_LOD1|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -1461978758160240623
+    second: Nest_09_LOD1|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -7845289432264650157
+    second: Nest_09_LOD1|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -481473118905630075
+    second: Nest_09_LOD1|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -2384958751639863068
+    second: Nest_09_LOD1|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 1919322296699185444
+    second: Nest_09_LOD1|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -6345723507652239384
+    second: Nest_09_LOD1|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -5023299451911142022
+    second: Nest_09_LOD1|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 62863768015325336
+    second: Nest_09_LOD1|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -1443813403853625489
+    second: Nest_09_LOD2|Nest_07_LOD0|Nest_07_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 6257331325594566026
+    second: Nest_09_LOD2|Nest_07_LOD1|Nest_07_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -2419686181684951817
+    second: Nest_09_LOD2|Nest_07_LOD2|Nest_07_LOD2|Nest_07_LOD0Action
+  - first:
+      74: 3841822705515771622
+    second: Nest_09_LOD2|Nest_08_LOD0|Nest_08_LOD0|Nest_07_LOD0Action
+  - first:
+      74: 7542568970787002296
+    second: Nest_09_LOD2|Nest_08_LOD1|Nest_08_LOD1|Nest_07_LOD0Action
+  - first:
+      74: -4599839200670939563
+    second: Nest_09_LOD2|Nest_08_LOD2|Nest_08_LOD2|Nest_07_LOD0Action
+  - first:
+      74: -3872913073573505862
+    second: Nest_09_LOD2|Nest_09_LOD0|Nest_09_LOD0|Nest_07_LOD0Action
+  - first:
+      74: -324069429624596659
+    second: Nest_09_LOD2|Nest_09_LOD1|Nest_09_LOD1|Nest_07_LOD0Action
+  - first:
+      74: 288549362025224144
+    second: Nest_09_LOD2|Nest_09_LOD2|Nest_09_LOD2|Nest_07_LOD0Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
