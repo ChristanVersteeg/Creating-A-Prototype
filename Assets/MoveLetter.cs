@@ -1,31 +1,20 @@
+using System;
 using UnityEngine;
 
 public class MoveLetter : MonoBehaviour
 {
     private Pose defaultPositionAndRotation;
-    private int index;
-    private int childCount;
+
     private const float forceModifier = 5;
 
     private int massModifier = 1;
+    private static int index;
+    private static bool IsControlled => index == _currentIndex;
 
-    private static int _currentIndex;
-    public int CurrentIndex
-    {
-        get => _currentIndex;
-        set => _currentIndex = Mathf.Clamp(value, 0, childCount);
-    }
-    private bool IsControlled => index == _currentIndex;
+
     private Rigidbody rb;
 
-    private void UpdateControl()
-    {
-        if (!IsControlled) return;
-
-        if (Input.GetKeyDown(KeyCode.LeftArrow)) CurrentIndex--;
-        else if (Input.GetKeyDown(KeyCode.RightArrow)) CurrentIndex++;
-    }
-
+ 
     private void UpdateWeight()
     {
         if (!IsControlled) return;

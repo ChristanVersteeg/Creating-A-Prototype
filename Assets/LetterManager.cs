@@ -1,18 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class LetterManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private static int childCount;
+    private static int _currentIndex;
+    public static int CurrentIndex
     {
-        
+        get => _currentIndex;
+        set => _currentIndex = Mathf.Clamp(value, 0, childCount);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void UpdateControl()
     {
-        
+        if (!IsControlled) return;
+
+        if (Input.GetKeyDown(KeyCode.LeftArrow)) CurrentIndex--;
+        else if (Input.GetKeyDown(KeyCode.RightArrow)) CurrentIndex++;
     }
+
+    void Update() => UpdateControl();
 }
