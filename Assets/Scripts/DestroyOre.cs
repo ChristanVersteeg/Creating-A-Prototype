@@ -6,7 +6,7 @@ public class DestroyOre : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (!PickaxePickup.pickaxeHeld) return;
+    
 
         print($"Ores collected: {++oresCollected}");
 
