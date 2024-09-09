@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-    Vector3
+
 
     //NPC Health
     public int Health = 10;
@@ -15,10 +15,12 @@ public class NPC : MonoBehaviour
     //NPC Speed
     public float Speed = 1.2f;
 
+
+
     void Start()
+
     {
-        newPosition.z +=
-            Speed * Time.deltaTime;
+        //newPosition.z += Speed * Time.deltaTime;
 
 
 
@@ -30,7 +32,5 @@ public class NPC : MonoBehaviour
 
 
 
-
-        
 
 }
