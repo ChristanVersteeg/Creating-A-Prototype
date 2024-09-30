@@ -73,9 +73,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
@@ -168,9 +168,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: LuckiestGuy SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 522651456
   material: {fileID: -3994071251851080346}
-  materialHashCode: 0
+  materialHashCode: -910960800
   m_Version: 1.1.0
   m_SourceFontFileGUID: 1e2953acab6eaa54faea6d03237da4f4
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 1e2953acab6eaa54faea6d03237da4f4, type: 3}
@@ -188,7 +188,7 @@ MonoBehaviour:
     m_CapLine: 45
     m_MeanLine: 45
     m_Baseline: 0
-    m_DescentLine: -19
+    m_DescentLine: 0
     m_SuperscriptOffset: 45
     m_SuperscriptSize: 0.5
     m_SubscriptOffset: -19
