@@ -20,16 +20,18 @@ public class NPC : MonoBehaviour
     void Start()
 
     {
-        //newPosition.z += Speed * Time.deltaTime;
-
-
-
 
 
     }
 
 
+    private void Update()
+    {
 
+       Vector3 newPosition =transform.position;
+        newPosition.y += Speed * Time.deltaTime;
+        transform.position = newPosition;
+    }
 
 
 
