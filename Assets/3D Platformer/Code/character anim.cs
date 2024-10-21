@@ -7,11 +7,10 @@ public class Characteranim : MonoBehaviour
     [SerializeField] private Animator animator;
     private int isWalkingHash, isRunningHash;
 
-
     private void Start()
     {
         isWalkingHash = Animator.StringToHash("ISWALKING");
-        isRunningHash = Animator.StringToHash("ISWALKING");
+        isRunningHash = Animator.StringToHash("ISRUNNING");
         print(isWalkingHash);
         print(isRunningHash);
 
@@ -26,17 +25,14 @@ public class Characteranim : MonoBehaviour
         bool runPressed = Input.GetKey(KeyCode.LeftShift);
 
         if (!isWalking && forwardPressed)
-            {
+        {
             animator.SetBool(isWalkingHash, true);
-
         }
-
 
         if (isWalking && !forwardPressed)
         {
             animator.SetBool(isWalkingHash, false);
         }
-
 
         if (!isRunning && (forwardPressed && runPressed))
         {
@@ -48,7 +44,5 @@ public class Characteranim : MonoBehaviour
 
             animator.SetBool(isRunningHash, false);
         }
-        
-
     }
 }
