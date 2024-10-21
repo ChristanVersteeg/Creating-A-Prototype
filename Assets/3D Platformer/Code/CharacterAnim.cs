@@ -26,25 +26,25 @@ public class CharacterAnim : MonoBehaviour
         // If the player is not walking And the W key is pressed, then turn on the walking animation
         if (!isWalking && forwardPressed)
         {
-            animator.SetBool("isWalking", true);
+            animator.SetBool(isWalkingHash, true);
         }
 
         // If the player is walking And the W key is not pressed, then turn off the walking animation
         if (isWalking && !forwardPressed)
         {
-            animator.SetBool("isWalking", false);
+            animator.SetBool(isWalkingHash, false);
         }
 
         // If the player is not running And the left shift And W are held down, then turn on the running animation
         if (!isRunning && (forwardPressed && runPressed))
         {
-            animator.SetBool("isRunning", true);
+            animator.SetBool(isRunningHash, true);
         }
 
         // If the player is running And the left shift OR W is not held down, then turn off the running animation
         if (isRunning && (!forwardPressed || !runPressed))
         {
-            animator.SetBool("isRunning", false);
+            animator.SetBool(isRunningHash, false);
         }
     }
 }
