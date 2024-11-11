@@ -8,15 +8,15 @@ public class speedtrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        other.GetComponent<FirstPersonMovement>().speed *= speedMultiplier;
-        other.GetComponent<FirstPersonMovement>().runSpeed *= speedMultiplier;
+        other.GetComponent<ThirdPersonMovement>().speed *= speedMultiplier;
+        other.GetComponent<ThirdPersonMovement>().runSpeed *= speedMultiplier;
     }
 
     private void OnTriggerExit(Collider other)
     {
 
-        other.GetComponent<FirstPersonMovement>().speed /= speedMultiplier;
-        other.GetComponent<FirstPersonMovement>().runSpeed /= speedMultiplier;
+        other.GetComponent<ThirdPersonMovement>().speed /= speedMultiplier;
+        other.GetComponent<ThirdPersonMovement>().runSpeed /= speedMultiplier;
 
     }
 
